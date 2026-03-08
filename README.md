@@ -73,4 +73,4 @@ Open [http://localhost:3000](http://localhost:3000) to begin the sequencing.
 
 ---
 
-*Engineered by Antigravity*
+
